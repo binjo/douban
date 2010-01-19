@@ -7,6 +7,7 @@ Douban client in Gnu Emacs.
 	(require 'douban-emacs)
 	(setq douban-api-public-key "your-acquired-pub-key")
 	(setq douban-api-secret-key "your-acquired-sec-key")
+    M-x douban-create-note
 
 * Contact
 
