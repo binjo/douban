@@ -1,0 +1,14 @@
+Douban client in Gnu Emacs.
+
+现在仅支持发日记，同时保存备份到本地，结合了一些org mode的功能。
+
+* How to use
+
+	(require 'douban-emacs)
+	(setq douban-api-public-key "your-acquired-pub-key")
+	(setq douban-api-secret-key "your-acquired-sec-key")
+
+* Contact
+
+  http://www.douban.com/people/binjo/
+  twitter: @binjo
